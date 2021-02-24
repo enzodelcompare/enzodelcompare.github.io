@@ -1,5 +1,3 @@
-# Olá! Bem-vindo(a) ao meu site.
-
 <p align="center">
     <a href="https://enzodelcompare.github.io/" alt="Contributors">
         <img src="https://img.shields.io/badge/create-enzodelcompare-green" />
@@ -7,7 +5,7 @@
     <img src="https://img.shields.io/badge/cv-enzodelcompare-blue" />
 </p>
 
-## Anexando Visual do Power BI em Uma Página da Web
+# Anexando Visual do Power BI em Uma Página da Web
 
 O simples modelo abaixo, demosntra o quão fácil e prático é anexar um visual do **Power BI** em uma página da web.
 
